@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas4Lid</string>
+    <string name="title">Controlar LED</string>
+    <string name="subtitle">ESP-01 Firebase Kotlin</string>
+    <string name="all">TODO</string>
+    <string name="description">ON/OFF</string>
+</resources>

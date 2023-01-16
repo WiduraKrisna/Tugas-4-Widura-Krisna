@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406078405310",
+    "project_id": "tugas4-d82e7",
+    "storage_bucket": "tugas4-d82e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406078405310:android:6f1684904e41862e08fcef",
+        "android_client_info": {
+          "package_name": "com.example.tugas4lid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406078405310-mkdpbd89to0d8prtet31su3hiu65la8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNCoeZy5o_phraAG4utsPGgC_D8A2Mi48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406078405310-mkdpbd89to0d8prtet31su3hiu65la8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
